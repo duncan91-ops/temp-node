@@ -1,0 +1,4 @@
+I am a programmer.
+I am learning Node JS.
+I can add onto this file.I am learning how to write to files
+This is a test on how to append

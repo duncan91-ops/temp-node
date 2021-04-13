@@ -1,0 +1,4 @@
+I am also a python programmer.
+Probably intermediate level.
+With a little bit of experience in building simple Django projects.
+Looking to become an expert.
